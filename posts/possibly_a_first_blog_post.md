@@ -1,6 +1,6 @@
 ---
 title: First blog post
-author:
+authors:
   - fullname: Rafał Draws
     email: rafal.w.draws@gmail.com
     linkedin: https://www.linkedin.com/in/rafa%C5%82-draws-a49b0b1a9/
